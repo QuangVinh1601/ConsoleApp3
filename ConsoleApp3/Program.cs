@@ -2,11 +2,19 @@
 
 namespace ConsoleApp3
 {
-    internal class Program
+    class ABC
     {
-        static void Main(string[] args)
+        void FirstMethod()
         {
-            Console.WriteLine("Hello World! Quang Vinh! Xin chào");
+
+
+        }
+        void SecondMethod()
+        {
+
+        }
+        void ThirdMethod()
+        {
 
         }
     }
