@@ -4,9 +4,14 @@ namespace ConsoleApp3
 {
     internal class Program
     {
-        void FirstMedthod()
+        static void Main(string[] args)
         {
-            Console.WriteLine("Quang Vinh");
+            Console.WriteLine("Hello World! Quang Vinh! Xin chào");
+            Console.WriteLine("Hello World! Quang Vinh! Xin chào");
+            Console.WriteLine("Hello World! Quang Vinh! Xin chào");
+            Console.WriteLine("Hello World! Quang Vinh! Xin chào");
+            Console.WriteLine("Hello World! Quang Vinh! Xin chào");
+            Console.WriteLine("Hello World! Quang Vinh! Xin chào");
         }
     }
 }
